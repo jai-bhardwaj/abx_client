@@ -14,6 +14,7 @@ ABX Client is a C++ application that connects to a server, retrieves data packet
 To build the project, run the following command in the terminal:
 
 ```sh
+node main.js
 cd ./abx_client
 make
 ./abx_client
